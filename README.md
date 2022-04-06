@@ -1,41 +1,7 @@
 <img src="https://26805113.s21i.faiusr.com/4/ABUIABAEGAAgtrqthQYozNCRwwMwuBc43gU.png" alt="mo banner">
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<div class="column" align="middle">
-  <a href="https://github.com/matrixorigin/matrixone/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-red.svg" alt="license"/>
-  </a>
-  <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/Language-Go-blue.svg" alt="language"/>
-  </a>
-  <img src="https://img.shields.io/badge/platform-MacOS-white.svg" alt="macos"/>
-  <img src="https://img.shields.io/badge/platform-Linux-9cf.svg" alt="linux"/>
-  <a href="https://www.codefactor.io/repository/github/matrixorigin/matrixone">
-    <img src="https://www.codefactor.io/repository/github/matrixorigin/matrixone/badge?s=7280f4312fca2f2e6938fb8de5b726c5252541f0" alt="codefactor"/>
-  </a>
-  <a href="https://docs.matrixorigin.io/0.3.0/MatrixOne/Release-Notes/v0.3.0/">
-   <img src="https://img.shields.io/badge/Release-v0.3.0-green.svg" alt="release"/>
-  </a>
-  <a>
-   <img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square" alt="contributors-"/>
-  </a>
-  <br>
-  <a href="https://docs.matrixorigin.io/0.3.0/">
-    <b>Docs</b>
-  </a>
-  <b>||</b>
-  <a href="https://www.matrixorigin.io/">
-   <b> Official Website</b>
-  </a>
-  <br>
-  <a href="https://github.com/matrixorigin/matrixone/blob/main/README.md">
-    <b>English</b>
-  </a>
-  <b>||</b>
-  <a href="https://github.com/matrixorigin/matrixone/blob/main/README.cn.md">
-    <b>简体中文</b>
-  </a>
-</div>
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Contents
@@ -270,6 +236,7 @@ Contributions to MatrixOne are welcome from everyone.
   <tr>
     <td align="center"><a href="https://github.com/wanhanbo"><img src="https://avatars.githubusercontent.com/u/97089788?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wanhanbo</b></sub></a><br /><a href="https://github.com/wanhanbo/mytest/issues?q=author%3Awanhanbo" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/dengn"><img src="https://avatars.githubusercontent.com/u/4965857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dengn</b></sub></a><br /><a href="https://github.com/wanhanbo/mytest/issues?q=author%3Adengn" title="Bug reports">🐛</a> <a href="https://github.com/wanhanbo/mytest/commits?author=dengn" title="Code">💻</a></td>
+    <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/wanhanbo/mytest/issues?q=author%3Aall-contributors" title="Bug reports">🐛</a> <a href="https://github.com/wanhanbo/mytest/commits?author=all-contributors" title="Code">💻</a></td>
   </tr>
 </table>
 
