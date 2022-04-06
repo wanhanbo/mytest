@@ -1,6 +1,6 @@
 <img src="https://26805113.s21i.faiusr.com/4/ABUIABAEGAAgtrqthQYozNCRwwMwuBc43gU.png" alt="mo banner">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div class="column" align="middle">
@@ -267,6 +267,7 @@ Contributions to MatrixOne are welcome from everyone.
 <table>
   <tr>
     <td align="center"><a href="https://github.com/wanhanbo"><img src="https://avatars.githubusercontent.com/u/97089788?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wanhanbo</b></sub></a><br /><a href="https://github.com/wanhanbo/mytest/issues?q=author%3Awanhanbo" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/dengn"><img src="https://avatars.githubusercontent.com/u/4965857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dengn</b></sub></a><br /><a href="https://github.com/wanhanbo/mytest/issues?q=author%3Adengn" title="Bug reports">🐛</a> <a href="https://github.com/wanhanbo/mytest/commits?author=dengn" title="Code">💻</a></td>
   </tr>
 </table>
 
