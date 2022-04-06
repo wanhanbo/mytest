@@ -1,3 +1,4 @@
+利用[allcontributors-bot](https://allcontributors.org/docs/en/bot/installation)实现contributors table
 主要步骤如下：
 1.  [安装Bot](https://allcontributors.org/docs/en/bot/installation)
 2.	在需要展示贡献表的文件（README.md 与README_CN.md文件）的段落中添加如下语句：
@@ -16,4 +17,4 @@
 <contributions>是[贡献类型](https://allcontributors.org/docs/en/emoji-key)
 
  Bot将自动创建 .all-contributorsrc 文件，可以在其中任意修改配置。
-  **比如在files中增加 "README_CN.md"** 保证中文版readme的更新
+  **必须在files中增加 "README_CN.md"** 保证中文版readme的更新
