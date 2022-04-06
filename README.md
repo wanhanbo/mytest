@@ -1,6 +1,5 @@
 <img src="https://26805113.s21i.faiusr.com/4/ABUIABAEGAAgtrqthQYozNCRwwMwuBc43gU.png" alt="mo banner">
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <div class="column" align="middle">
   <a href="https://github.com/matrixorigin/matrixone/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache%202.0-red.svg" alt="license"/>
@@ -15,9 +14,6 @@
   </a>
   <a href="https://docs.matrixorigin.io/0.3.0/MatrixOne/Release-Notes/v0.3.0/">
    <img src="https://img.shields.io/badge/Release-v0.3.0-green.svg" alt="release"/>
-  </a>
-  <a>
-   <img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square" alt="contributors-"/>
   </a>
   <br>
   <a href="https://docs.matrixorigin.io/0.3.0/">
@@ -36,7 +32,7 @@
     <b>简体中文</b>
   </a>
 </div>
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 Contents
 ========
