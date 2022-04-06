@@ -272,7 +272,7 @@ Enter password:
   <tr>
     <td align="center"><a href="https://github.com/wanhanbo"><img src="https://avatars.githubusercontent.com/u/97089788?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wanhanbo</b></sub></a><br /><a href="https://github.com/wanhanbo/mytest/issues?q=author%3Awanhanbo" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/dengn"><img src="https://avatars.githubusercontent.com/u/4965857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dengn</b></sub></a><br /><a href="https://github.com/wanhanbo/mytest/issues?q=author%3Adengn" title="Bug reports">🐛</a> <a href="https://github.com/wanhanbo/mytest/commits?author=dengn" title="Code">💻</a></td>
-    <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/wanhanbo/mytest/issues?q=author%3Aall-contributors" title="Bug reports">🐛</a> <a href="https://github.com/wanhanbo/mytest/commits?author=all-contributors" title="Code">💻</a></td>
+    <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/wanhanbo/mytest/issues?q=author%3Aall-contributors" title="Bug reports">🐛</a> <a href="https://github.com/wanhanbo/mytest/commits?author=all-contributors" title="Code">💻</a> <a href="#design-all-contributors" title="Design">🎨</a></td>
   </tr>
 </table>
 
