@@ -32,7 +32,8 @@
       "profile": "https://allcontributors.org",
       "contributions": [
         "bug",
-        "code"
+        "code",
+        "design"
       ]
     }
   ],
