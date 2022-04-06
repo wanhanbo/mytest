@@ -17,4 +17,15 @@
 <contributions>是[贡献类型](https://allcontributors.org/docs/en/emoji-key)
 
  Bot将自动创建 .all-contributorsrc 文件，可以在其中任意修改配置。
-  **必须在files中增加 "README_CN.md"** 保证中文版readme的更新
+ 
+ ### 其他注意事项
+ * 必须在files中增加 "README_CN.md"保证中文版readme的更新
+ * 首次使用后，需要删除readme文件中bot自己增加的两个部分
+   分别是：开头增加的badge部分 
+ ```
+ <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+ ```
+ 以及最后增加的 contributors部分。  
+ 这两个部分可以在我们的主体内容中自己设计，用bot的会带来格式上的错误。
