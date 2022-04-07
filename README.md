@@ -24,11 +24,11 @@
    <b> Official Website</b>
   </a>
   <br>
-  <a href="https://github.com/matrixorigin/matrixone/blob/main/README.md">
+  <a href="https://github.com/wanhanbo/mytest/blob/main/README.md">
     <b>English</b>
   </a>
   <b>||</b>
-  <a href="https://github.com/matrixorigin/matrixone/blob/main/README.cn.md">
+  <a href="https://github.com/wanhanbo/mytest/blob/main/README_CN.md">
     <b>简体中文</b>
   </a>
 </div>
