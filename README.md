@@ -35,6 +35,10 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MatrixOne16.svg?style=social&label=Follow%20%40MatrixOne16)](https://twitter.com/MatrixOne16)
 
+<p align="center">
+<a href="https://twitter.com/matrixone16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matrixone16" height="30" width="40" /></a>
+</p>
+
 
 Contents
 ========
