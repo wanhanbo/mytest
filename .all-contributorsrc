@@ -24,6 +24,15 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "domingozhang",
+      "name": "DomingoZhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88298673?v=4",
+      "profile": "https://github.com/domingozhang",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
